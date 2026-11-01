@@ -11,8 +11,6 @@ Wealth tracker is a private, non-commercial application for personal financial
 overview. It is developed and used exclusively by its owner. It is not offered
 to third parties.
 
-Contact for data protection matters: JOUW-EMAIL@voorbeeld.nl
-
 ## What data is processed
 With the explicit consent of the account holder, the following data is retrieved
 through Enable Banking (enablebanking.com):
