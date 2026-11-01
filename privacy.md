@@ -1,0 +1,2 @@
+Wealth tracker – privacyverklaring en voorwaarden
+Wealth tracker is een privétoepassing voor persoonlijk financieel overzicht, uitsluitend gebruikt door de eigenaar zelf. Rekeninggegevens, saldi en transacties worden via Enable Banking opgehaald met toestemming van de rekeninghouder. Ze worden alleen lokaal opgeslagen op het eigen apparaat van de eigenaar en niet gedeeld met derden. De toestemming kan op elk moment worden ingetrokken bij de bank of bij Enable Banking. 
