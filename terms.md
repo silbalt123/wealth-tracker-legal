@@ -19,4 +19,3 @@ _Last updated: 1 November 2026_
    kind.
 6. **Privacy.** Processing of personal data is described in the
    [Privacy Policy](privacy).
-7. **Contact.** JOUW-EMAIL@voorbeeld.nl
